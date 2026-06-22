@@ -1,0 +1,8 @@
+{
+  "name": "Pantalla y Control de Eventos Gamer",
+  "description": "Tablero y panel de control en tiempo real para torneos de videojuegos, con anuncios de voz (TTS) y administración móvil mediante QR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

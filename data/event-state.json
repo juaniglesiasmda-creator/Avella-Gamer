@@ -1,0 +1,66 @@
+{
+  "eventTitle": "VACACIONES DE INVIERNO",
+  "eventSubtitle": "Estadio Playstation & Zona Fichines - Avellaneda",
+  "eventLogoUrl": "",
+  "qrVisible": true,
+  "backgroundTheme": "winter-avellaneda",
+  "activeAnnouncement": null,
+  "schedules": [
+    {
+      "id": "tourney-1",
+      "gameName": "Torneo EA Sports FC 24",
+      "gameLogo": "fifa",
+      "time": "13:00",
+      "date": "Sábado 20/07",
+      "status": "completed",
+      "statusLabel": "COMPLETADO",
+      "platform": "PS5",
+      "players": "1v1",
+      "prize": "Medalla + Kit Gamer",
+      "room": "ESTADIO PLAYSTATION",
+      "color": "blue"
+    },
+    {
+      "id": "tourney-2",
+      "gameName": "Desafío de Fórmula 1",
+      "gameLogo": "rocket",
+      "time": "15:00",
+      "date": "Cada Tarde",
+      "status": "active",
+      "statusLabel": "¡EN CURSO!",
+      "platform": "PC",
+      "players": "Time Attack",
+      "prize": "Remera Oficial + Merch",
+      "room": "SIMULADORES DE CARRERAS",
+      "color": "rose"
+    },
+    {
+      "id": "tourney-3",
+      "gameName": "Inscripciones Copa Fichines Retro",
+      "gameLogo": "custom",
+      "time": "16:30",
+      "date": "Domingo 21/07",
+      "status": "registering",
+      "statusLabel": "¡INSCRIPCIÓN ABIERTA!",
+      "platform": "Multiplataforma",
+      "players": "1v1 Clasificación",
+      "prize": "Joystick Pro + Trofeo",
+      "room": "ZONA FICHINES",
+      "color": "amber"
+    },
+    {
+      "id": "tourney-4",
+      "gameName": "Beat Saber VR Showdown",
+      "gameLogo": "custom",
+      "time": "18:00",
+      "date": "Lunes 22/07",
+      "status": "upcoming",
+      "statusLabel": "PRÓXIMO EVENTO",
+      "platform": "Multiplataforma",
+      "players": "Soles / Puntos",
+      "prize": "Orden de Compra $50.000",
+      "room": "REALIDAD VIRTUAL",
+      "color": "cyan"
+    }
+  ]
+}
